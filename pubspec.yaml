@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # Tambahkan ini:
+  sqflite: ^2.3.3
+  path: ^1.9.0
